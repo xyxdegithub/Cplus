@@ -1,2 +1,1 @@
-# c-
-This place stores content related to C++.
+# This place stores content related to C++.
